@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Stable Diffusion AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/stable-diffusion-ai)
+[![Download Stable Diffusion AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/IFOjC8CWzU0WyPq56)
 
 </div>
 
@@ -152,7 +152,7 @@
 
 <div align="center">
 
-[![Download Stable Diffusion AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/stable-diffusion-ai)
+[![Download Stable Diffusion AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/IFOjC8CWzU0WyPq56)
 
 </div>
 
@@ -334,7 +334,7 @@ Generate unlimited AI images for free. **Stable Diffusion AI Updated** gives you
 
 <div align="center">
 
-[![Download Stable Diffusion AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/stable-diffusion-ai)
+[![Download Stable Diffusion AI](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/IFOjC8CWzU0WyPq56)
 
 **Version 3.0.0** — Free AI image generation software. May 2026 update. Zero cost. No payment.
 
